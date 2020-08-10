@@ -7,6 +7,12 @@
             "email": "GlaryJoker@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Kits\\": "kits/"
+        }
+    },
+    "description": "Web开发套件",
     "require": {
         "maatwebsite/excel": "^3.1"
     }
