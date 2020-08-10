@@ -1,6 +1,10 @@
 <?php
 namespace Kits\UniqueCode;
-
+/**
+ *
+ * Class UniqueCodeType
+ * @package Kits\UniqueCode
+ */
 class UniqueCodeType{
 
     const RANDOM_NUMBER = 1;
