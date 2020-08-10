@@ -1,0 +1,13 @@
+{
+    "name": "meng/mengkit",
+    "type": "library",
+    "authors": [
+        {
+            "name": "GlaryJoker",
+            "email": "GlaryJoker@gmail.com"
+        }
+    ],
+    "require": {
+        "maatwebsite/excel": "^3.1"
+    }
+}
